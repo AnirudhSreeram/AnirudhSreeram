@@ -8,7 +8,10 @@ core of all these projects.
 
 
 ## 🛠 Skills
-Shell, Python, Kaldi, Pytorch, Tensorflow, numpy, scipy, librosa, scikit-learn, Java, C#
+### Languages
+Python • Shell Scripting • Java • JavaScript • C# • SQL
+### Technologies / Libraries
+Kaldi • PyTorch • TensorFlow • Scikit-Learn • Numpy • Pandas • AWS • GitHub • Web Services • Spring MVC • MVVM • CUDA
 
 
 ## 🔗 Links
